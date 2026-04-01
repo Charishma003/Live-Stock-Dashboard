@@ -20,5 +20,8 @@ Stock market data is dynamically fetched from Twelve Data API and used for real-
 * Twelve Data API
 * Data Visualization
 
+## preview
+![Dashboard Preview](preview.jpg)
+
 ## Author
 Charishma Saragadam
